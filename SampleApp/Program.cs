@@ -12,6 +12,9 @@ namespace SampleApp
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Comitting to the Github");
+            //Comments for today
+            Console.WriteLine("Hello how are you");
+            Console.ReadLine();
         }
     }
 }
